@@ -1,0 +1,78 @@
+{
+	"pattrstorage" : 	{
+		"name" : "pat",
+		"slots" : 		{
+			"1000" : 			{
+				"id" : 1000,
+				"data" : 				{
+					"inputs~" : [ "vol(2)", "start(2)", "length(2)", "pitch(2)" ],
+					"current_end" : [ 500.0 ],
+					"current_start" : [ 3380.469970703125 ],
+					"end" : [ 3880.469970703125 ],
+					"end-jsui" : [  ],
+					"full_select" : [ -1 ],
+					"keep-time" : [ 0 ],
+					"length-jsui" : [  ],
+					"start-jsui" : [  ],
+					"ubumenu" : [ "start" ],
+					"buffer" : [ "SC_SONIC_00_12_PAD.aif" ],
+					"start" : [ 3380.469970703125 ],
+					"length" : [ 500.0 ],
+					"pitch" : [ 0.0 ],
+					"on/off" : [ 1 ],
+					"oneshot" : [ 0 ],
+					"oneshot_trigger" : [ -1 ],
+					"ext~vol" : [ 0 ],
+					"lookup" : [ 1 ],
+					"start_rel" : [ 0.591925185655212 ],
+					"length_rel" : [ 0.087550723832061 ],
+					"s-ramp" : [ 0.0 ],
+					"s-ramp-mode" : [ 1 ],
+					"start-ramp-stop" : [ -1 ],
+					"l-ramp" : [ 0.0 ],
+					"l-ramp-mode" : [ 1 ],
+					"length-ramp-stop" : [ -1 ],
+					"length/end" : [ 0 ],
+					"env-scale" : [ 55.405405405405403 ],
+					"pitchmenu" : [ 0 ],
+					"play-mode" : [ 1 ],
+					"ramp2pitch" : [ 0 ],
+					"pitch-ramp-stop" : [ -1 ],
+					"pitchslider" : [ 70 ],
+					"zero" : [ -1 ],
+					"preset-ramp" : [ 0.0 ],
+					"presets" : [ 0 ],
+					"title_menu" : [ "subpatch" ],
+					"pres_menu" : [ "write" ],
+					"tetris_menu" : [ "" ],
+					"master" : [ 0 ],
+					"ll.blues::levels" : [ 1.0, 1.0, 0.632530120481928, 0.0, 10.0, 0.0, 0.5 ],
+					"ll.blues::outputs" : [ "ho_st1~out.1", "beauty1~in.0" ],
+					"ll.blues::state" : [ 2, 1, 0, 0, 2, 0 ],
+					"act::active_store" : [ "_" ]
+				}
+
+			}
+
+		}
+,
+		"clientstate" : 		{
+			"active" : 			{
+				"preset-ramp" : 0,
+				"presets" : 0,
+				"title_menu" : 0,
+				"pres_menu" : 0,
+				"tetris_menu" : 0,
+				"master" : 0,
+				"ll.blues" : 0,
+				"ll.blues::levels" : 0,
+				"ll.blues::outputs" : 0,
+				"ll.blues::state" : 0,
+				"act::active_store" : 0
+			}
+
+		}
+
+	}
+
+}

@@ -1,0 +1,56 @@
+{
+	"pattrstorage" : 	{
+		"name" : "pat",
+		"slots" : 		{
+			"1000" : 			{
+				"id" : 1000,
+				"data" : 				{
+					"act_menu" : [ "modul.ator" ],
+					"audioON/OFF" : [ 1 ],
+					"chans" : [ 2 ],
+					"def" : [ -1 ],
+					"envi_menu" : [ "(environments)" ],
+					"favorites" : [ "(favorites)" ],
+					"jit.on" : [ 0 ],
+					"master" : [ "we" ],
+					"menubar" : [ 0 ],
+					"ppooll" : [ -1 ],
+					"pres_menu" : [ "write" ],
+					"rec" : [ 0 ],
+					"screen" : [ 1 ],
+					"stereo" : [ 0 ],
+					"tetris_menu" : [ "" ],
+					"title_menu" : [ "dsp(audio_settings)" ],
+					"vol" : [ 0.209999993443489 ],
+					"vol_ramp" : [ 10 ],
+					"vol_slider" : [ 0.648648648648649 ],
+					"watch_menu" : [ "time" ],
+					"write_envi" : [ -1 ],
+					"osc_port" : [ 7400 ],
+					"ll.dims" : [ 0 ],
+					"pfl_act_menu" : [ "no" ],
+					"pfl_par_menu" : [ "-no-" ],
+					"params_only" : [ 0 ],
+					"inputs~" : [ "out(2)" ],
+					"act::active_store" : [ "_" ]
+				}
+
+			}
+
+		}
+,
+		"clientstate" : 		{
+			"active" : 			{
+				"master" : 0,
+				"pres_menu" : 0,
+				"tetris_menu" : 0,
+				"title_menu" : 0,
+				"act" : 0,
+				"act::active_store" : 0
+			}
+
+		}
+
+	}
+
+}

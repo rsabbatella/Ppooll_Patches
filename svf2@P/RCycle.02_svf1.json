@@ -1,0 +1,50 @@
+{
+	"pattrstorage" : 	{
+		"name" : "pat",
+		"slots" : 		{
+			"1000" : 			{
+				"id" : 1000,
+				"data" : 				{
+					"inputs~" : [ "in(2)", "freq(2)", "res(2)" ],
+					"freq" : [ 20.0 ],
+					"freq_mcspread" : [ 244.10187173835584 ],
+					"freq_ramp" : [ 894 ],
+					"mat" : [ 1, 0, 1.0 ],
+					"res" : [ 0.0 ],
+					"res_mcspread" : [ 0.0 ],
+					"res_ramp" : [ 0 ],
+					"presets" : [ 0 ],
+					"preset-ramp" : [ 0.0 ],
+					"pres_menu" : [ "write" ],
+					"tetris_menu" : [ "" ],
+					"title_menu" : [ "subpatch" ],
+					"master" : [ 0 ],
+					"act::active_store" : [ "_" ],
+					"ll.blues::levels" : [ 0.18099843341128, 0.18099843341128, 0.977272727272727, 1.0, 10.0, 0.0, 0.5 ],
+					"ll.blues::outputs" : [ "ho_st1~out.1", "rm@1~in.0" ],
+					"ll.blues::state" : [ 2, 1, 0, 0, 2, 0 ]
+				}
+
+			}
+
+		}
+,
+		"clientstate" : 		{
+			"active" : 			{
+				"presets" : 0,
+				"preset-ramp" : 0,
+				"pres_menu" : 0,
+				"tetris_menu" : 0,
+				"title_menu" : 0,
+				"master" : 0,
+				"ll.blues" : 0,
+				"ll.blues::levels" : 0,
+				"ll.blues::outputs" : 0,
+				"ll.blues::state" : 0
+			}
+
+		}
+
+	}
+
+}

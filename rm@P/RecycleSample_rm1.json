@@ -1,0 +1,54 @@
+{
+	"pattrstorage" : 	{
+		"name" : "pat",
+		"slots" : 		{
+			"1000" : 			{
+				"id" : 1000,
+				"data" : 				{
+					"inputs~" : [ "freqL(1)", "freqR(1)", "ext_L(1)", "ext_R(1)", "in(2)" ],
+					"cross_fader" : [ 0.0 ],
+					"freq_L" : [ 0.138529459299356 ],
+					"freq_R" : [ 0.078870540700644 ],
+					"freq_link" : [ 0 ],
+					"freq_ramp" : [ 0.0 ],
+					"interpolate_L" : [ 0 ],
+					"interpolate_R" : [ 0 ],
+					"wave_L" : [ 1 ],
+					"wave_R" : [ 6 ],
+					"wave_link" : [ 0 ],
+					"presets" : [ 0 ],
+					"preset-ramp" : [ 0.0 ],
+					"title_menu" : [ "subpatch" ],
+					"pres_menu" : [ "write" ],
+					"tetris_menu" : [ "" ],
+					"master" : [ 0 ],
+					"ll.blues::levels" : [ 1.0, 1.0, 0.924242424242424, 1.0, 10.0, 0.0, 0.5 ],
+					"ll.blues::outputs" : [ "ho_st1~out.1", "matriarch@1~in_1.0" ],
+					"ll.blues::state" : [ 2, 1, 0, 0, 2, 0 ],
+					"act::active_store" : [ "_" ]
+				}
+
+			}
+
+		}
+,
+		"clientstate" : 		{
+			"active" : 			{
+				"presets" : 0,
+				"preset-ramp" : 0,
+				"title_menu" : 0,
+				"pres_menu" : 0,
+				"tetris_menu" : 0,
+				"master" : 0,
+				"ll.blues" : 0,
+				"ll.blues::levels" : 0,
+				"ll.blues::outputs" : 0,
+				"ll.blues::state" : 0,
+				"act::active_store" : 0
+			}
+
+		}
+
+	}
+
+}

@@ -1,0 +1,72 @@
+{
+	"pattrstorage" : 	{
+		"name" : "pat",
+		"slots" : 		{
+			"1000" : 			{
+				"id" : 1000,
+				"data" : 				{
+					"inputs~" : [ "in(2)" ],
+					"clear" : [ -1 ],
+					"grain_pitch" : [ 1.0 ],
+					"grain_size_variation" : [ 21.700000762939453 ],
+					"position" : [ 0.776529681620174 ],
+					"power" : [ 1 ],
+					"preset-ramp" : [ 0.0 ],
+					"presets" : [ 1 ],
+					"setposminusone" : [ -1 ],
+					"setscalezero" : [ -1 ],
+					"record" : [ 1 ],
+					"gain" : [ 0.0 ],
+					"gain_slider" : [ 0.0 ],
+					"gain_rand" : [ 1.0 ],
+					"random_gain_slider" : [ 1.0 ],
+					"stereo_spread" : [ 1.0 ],
+					"voices" : [ 4 ],
+					"direction" : [ 2 ],
+					"grain_size" : [ 644.591623036648798 ],
+					"ramptime" : [ 15 ],
+					"grain_separation" : [ 0.0 ],
+					"grain_rate_variation" : [ 0.0 ],
+					"delay" : [ 1191.277380750133261 ],
+					"grain_pitch_variation" : [ 0.70873786407767 ],
+					"semitones" : [ 0.0 ],
+					"semitones_amount" : [ 12 ],
+					"smooth" : [ 1 ],
+					"scale" : [ 0, 0, 0, 0 ],
+					"easy_rand" : [ 1 ],
+					"grain_size_random" : [ 1 ],
+					"position_random" : [ 1 ],
+					"title_menu" : [ "subpatch" ],
+					"pres_menu" : [ "write" ],
+					"tetris_menu" : [ "" ],
+					"master" : [ 0 ],
+					"act::active_store" : [ " " ],
+					"ll.blues::levels" : [ 0.229534832972222, 0.229534832972222, 0.0, 1.0, 10.0, 0.0, 0.5 ],
+					"ll.blues::outputs" : [ "ho_st1~out.1", "no~-no-" ],
+					"ll.blues::state" : [ 2, 1, 0, 0, 2, 0 ]
+				}
+
+			}
+
+		}
+,
+		"clientstate" : 		{
+			"active" : 			{
+				"preset-ramp" : 0,
+				"presets" : 0,
+				"title_menu" : 0,
+				"pres_menu" : 0,
+				"tetris_menu" : 0,
+				"master" : 0,
+				"act::active_store" : 0,
+				"ll.blues" : 0,
+				"ll.blues::levels" : 0,
+				"ll.blues::outputs" : 0,
+				"ll.blues::state" : 0
+			}
+
+		}
+
+	}
+
+}

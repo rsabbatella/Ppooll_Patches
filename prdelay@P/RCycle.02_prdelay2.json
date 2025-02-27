@@ -1,0 +1,49 @@
+{
+	"pattrstorage" : 	{
+		"name" : "pat",
+		"slots" : 		{
+			"1000" : 			{
+				"id" : 1000,
+				"data" : 				{
+					"inputs~" : [ "in(2)" ],
+					"preset-ramp" : [ 0.0 ],
+					"presets" : [ 0 ],
+					"delayL" : [ 33.119631192918135 ],
+					"delayR" : [ 14.495207453983546 ],
+					"feedback" : [ 0.0 ],
+					"link!" : [ 0 ],
+					"straight/cross" : [ 0 ],
+					"master" : [ 0 ],
+					"pres_menu" : [ "write" ],
+					"tetris_menu" : [ "" ],
+					"title_menu" : [ "subpatch" ],
+					"act::active_store" : [ " " ],
+					"ll.blues::levels" : [ 0.163224729698947, 0.163224729698947, 0.0, 1.0, 10.0, 0.0, 0.5 ],
+					"ll.blues::outputs" : [ "ho_st1~out.1", "no~-no-" ],
+					"ll.blues::state" : [ 2, 1, 0, 0, 2, 0 ]
+				}
+
+			}
+
+		}
+,
+		"clientstate" : 		{
+			"active" : 			{
+				"preset-ramp" : 0,
+				"presets" : 0,
+				"master" : 0,
+				"pres_menu" : 0,
+				"tetris_menu" : 0,
+				"title_menu" : 0,
+				"act::active_store" : 0,
+				"ll.blues" : 0,
+				"ll.blues::levels" : 0,
+				"ll.blues::outputs" : 0,
+				"ll.blues::state" : 0
+			}
+
+		}
+
+	}
+
+}

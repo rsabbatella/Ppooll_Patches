@@ -1,0 +1,53 @@
+{
+	"pattrstorage" : 	{
+		"name" : "pat",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"absorb" : [ -58.518518518518519 ],
+					"decay" : [ 59.541984732824424 ],
+					"depth" : [ -0.740740740740748 ],
+					"mix1" : [ 53.333333333333336 ],
+					"predelay" : [ 165.061068702290072 ],
+					"preset-ramp" : [ 0 ],
+					"presets" : [ 1 ],
+					"reverse" : [ 0 ],
+					"speed" : [ 165.01333333333335 ],
+					"tilt" : [ 0.009999999776483 ],
+					"verbsize" : [ 43.052837252616882 ],
+					"title_menu" : [ "subpatch" ],
+					"pres_menu" : [ "_" ],
+					"tetris_menu" : [ "" ],
+					"master" : [ 0 ],
+					"inputs~" : [ "in(1)" ],
+					"act::active_store" : [ "_" ],
+					"ll.blues::levels" : [ 0.0, 0.0, 0.0, 1.0, 10.0, 0.0, 0.5 ],
+					"ll.blues::outputs" : [ "ho_st1~out.1", "no~-no-" ],
+					"ll.blues::state" : [ 2, 1, 0, 0, 1, 0 ]
+				}
+
+			}
+
+		}
+,
+		"clientstate" : 		{
+			"active" : 			{
+				"preset-ramp" : 0,
+				"presets" : 0,
+				"title_menu" : 0,
+				"pres_menu" : 0,
+				"tetris_menu" : 0,
+				"master" : 0,
+				"act::active_store" : 0,
+				"ll.blues" : 0,
+				"ll.blues::levels" : 0,
+				"ll.blues::outputs" : 0,
+				"ll.blues::state" : 0
+			}
+
+		}
+
+	}
+
+}

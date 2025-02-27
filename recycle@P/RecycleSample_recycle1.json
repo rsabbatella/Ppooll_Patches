@@ -1,0 +1,51 @@
+{
+	"pattrstorage" : 	{
+		"name" : "pat",
+		"slots" : 		{
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"buffers" : [ "midall.wav" ],
+					"directions" : [ ">>" ],
+					"multi" : [ -0.631205673758865, -0.063829787234043, -0.631205673758865, -0.021276595744681, 0.134751773049645, -0.617021276595745, -0.631205673758865, 0.035460992907801 ],
+					"on_toggle" : [ 0 ],
+					"pitch" : [ 0.0 ],
+					"preset-ramp" : [ 0.0 ],
+					"presets" : [ 2 ],
+					"scramble" : [ -1 ],
+					"sizes" : [ 8 ],
+					"speeds" : [ 250.0 ],
+					"master" : [ 1, 0 ],
+					"pres_menu" : [ "_" ],
+					"tetris_menu" : [ "" ],
+					"title_menu" : [ "master" ],
+					"act::active_store" : [ "_" ],
+					"ll.blues::levels" : [ 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.5 ],
+					"ll.blues::outputs" : [ "ho_st1~out.1", "no~-no-" ],
+					"ll.blues::state" : [ 2, 1, 0, 0, 1, 0 ]
+				}
+
+			}
+
+		}
+,
+		"clientstate" : 		{
+			"active" : 			{
+				"preset-ramp" : 0,
+				"presets" : 0,
+				"master" : 0,
+				"pres_menu" : 0,
+				"tetris_menu" : 0,
+				"title_menu" : 0,
+				"act::active_store" : 0,
+				"ll.blues" : 0,
+				"ll.blues::levels" : 0,
+				"ll.blues::outputs" : 0,
+				"ll.blues::state" : 0
+			}
+
+		}
+
+	}
+
+}

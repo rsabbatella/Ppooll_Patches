@@ -1,0 +1,46 @@
+{
+	"pattrstorage" : 	{
+		"name" : "pat",
+		"slots" : 		{
+			"1000" : 			{
+				"id" : 1000,
+				"data" : 				{
+					"inputs~" : [ "0(1)", "in(2)" ],
+					"buffers" : [ "SC_SONIC_00_12_PAD.aif" ],
+					"gain" : [ 0.3 ],
+					"master" : [ 0 ],
+					"pres_menu" : [ "write" ],
+					"preset-ramp" : [ 0.0 ],
+					"presets" : [ 0 ],
+					"tetris_menu" : [ "" ],
+					"title_menu" : [ "titlebar" ],
+					"act::active_store" : [ "_" ],
+					"ll.blues::levels" : [ 0.0, 0.0, 0.0, 1.0, 10.0, 0.0, 0.5 ],
+					"ll.blues::outputs" : [ "ho_st1~out.1", "no~-no-" ],
+					"ll.blues::state" : [ 2, 1, 0, 0, 2, 0 ]
+				}
+
+			}
+
+		}
+,
+		"clientstate" : 		{
+			"active" : 			{
+				"master" : 0,
+				"pres_menu" : 0,
+				"preset-ramp" : 0,
+				"presets" : 0,
+				"tetris_menu" : 0,
+				"title_menu" : 0,
+				"act::active_store" : 0,
+				"ll.blues" : 0,
+				"ll.blues::levels" : 0,
+				"ll.blues::outputs" : 0,
+				"ll.blues::state" : 0
+			}
+
+		}
+
+	}
+
+}
