@@ -1,0 +1,63 @@
+{
+	"pattrstorage" : 	{
+		"name" : "pat",
+		"slots" : 		{
+			"1000" : 			{
+				"id" : 1000,
+				"data" : 				{
+					"inputs~" : [ "in(2)" ],
+					"end" : [ 2000.0 ],
+					"gain" : [ 132 ],
+					"my_INmulti" : [ -1 ],
+					"position" : [ 43.240001678466797 ],
+					"vzoom" : [ 0.647346302540477 ],
+					"zoom_in" : [ -1 ],
+					"zoom_out" : [ -1 ],
+					"rec-switch" : [ 0 ],
+					"mix-level" : [ 1.0 ],
+					"mix-switch" : [ 1 ],
+					"link-switch" : [ 1 ],
+					"append-switch" : [ 0 ],
+					"loop-switch" : [ 0 ],
+					"<>key-switch" : [ 0 ],
+					"buffer" : [ "sb0_2000_2" ],
+					"start" : [ 43.240001678466797 ],
+					"length" : [ 197956.765625 ],
+					"pos_act" : [ "no" ],
+					"pos_par" : [ "-no-" ],
+					"pos_send_now" : [ -1 ],
+					"ps_act" : [ "no" ],
+					"ps_par" : [ "-no-" ],
+					"full_select" : [ -1 ],
+					"title_menu" : [ "subpatch" ],
+					"pres_menu" : [ "write" ],
+					"tetris_menu" : [ "" ],
+					"master" : [ 0 ],
+					"act::active_store" : [ "_" ],
+					"ll.blues::levels" : [ 0.89025481543073, 0.89025481543073, 0.62962962962963, 0.0, 10.0, 0.0, 0.5 ],
+					"ll.blues::outputs" : [ "ho_st1~out.1", "beauty1~in.0" ],
+					"ll.blues::state" : [ 2, 1, 0, 0, 2, 0 ]
+				}
+
+			}
+
+		}
+,
+		"clientstate" : 		{
+			"active" : 			{
+				"title_menu" : 0,
+				"pres_menu" : 0,
+				"tetris_menu" : 0,
+				"master" : 0,
+				"act::active_store" : 0,
+				"ll.blues" : 0,
+				"ll.blues::levels" : 0,
+				"ll.blues::outputs" : 0,
+				"ll.blues::state" : 0
+			}
+
+		}
+
+	}
+
+}

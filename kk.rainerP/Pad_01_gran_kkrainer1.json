@@ -1,0 +1,71 @@
+{
+	"pattrstorage" : 	{
+		"name" : "pat",
+		"slots" : 		{
+			"1000" : 			{
+				"id" : 1000,
+				"data" : 				{
+					"pitch" : [ -24.0 ],
+					"pitch-list" : [ "" ],
+					"start_rel" : [ 15.149999618530273 ],
+					"length_rel" : [ 0.090702950984166 ],
+					"voices" : [ 6 ],
+					"buffermenu" : [ "sb0_2000_2" ],
+					"envelope" : [ 0.0 ],
+					"randomslider" : [ 0.0 ],
+					"playbackspeed" : [ 0.0 ],
+					"speedslider" : [ 0.0 ],
+					"speedrange" : [ 1.0 ],
+					"speed_ramp" : [ 0.0 ],
+					"speed_ramp_stop" : [ -1 ],
+					"%-of_grainlength" : [ 100.0 ],
+					"density" : [ 79.911721118169851 ],
+					"playmode" : [ 0 ],
+					"grainLength" : [ 400.500832786247202 ],
+					"grainVar" : [ 16.326530612244898 ],
+					"stereo" : [ 0.5 ],
+					"don_t-touch" : [ 1 ],
+					"grainLCDrange" : [ 145 ],
+					"lang_ms" : [ 1.814059019683327 ],
+					"start_ms" : [ 303.06123497584457 ],
+					"presets" : [ 0 ],
+					"preset-ramp" : [ 0.0 ],
+					"pres_menu" : [ "write" ],
+					"tetris_menu" : [ "" ],
+					"title_menu" : [ "subpatch" ],
+					"master" : [ 0 ],
+					"ll.blues::levels" : [ 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.5 ],
+					"ll.blues::outputs" : [ "ho_st1~out.1", "no~-no-" ],
+					"ll.blues::state" : [ 2, 1, 0, 0, 2, 0 ],
+					"act::active_store" : [ "_" ]
+				}
+
+			}
+
+		}
+,
+		"clientstate" : 		{
+			"active" : 			{
+				"buffermenu" : 0,
+				"speedslider" : 0,
+				"speed_ramp_stop" : 0,
+				"lang_ms" : 0,
+				"start_ms" : 0,
+				"presets" : 0,
+				"preset-ramp" : 0,
+				"pres_menu" : 0,
+				"tetris_menu" : 0,
+				"title_menu" : 0,
+				"master" : 0,
+				"ll.blues" : 0,
+				"ll.blues::levels" : 0,
+				"ll.blues::outputs" : 0,
+				"ll.blues::state" : 0,
+				"act::active_store" : 0
+			}
+
+		}
+
+	}
+
+}
